@@ -5,3 +5,8 @@
 ## Contributors
 - Cruoglio Antonella 
 - Lavagna Leonardo 
+
+## Outline of the project
+1. Get the data from kaggle 
+2. Exploratory Data Analysis
+3. Answers to some research questions
