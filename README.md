@@ -11,4 +11,4 @@
 2. Exploratory Data Analysis
 3. Answers to some research questions
 
-**Remark .** This project was part of the Algorithmic Methods of Data Mining's course held by Prof. Aris Anagnostopoulos @ Sapienza
+**Remark .** This project was part of the Algorithmic Methods of Data Mining's course held by Prof. Aris Anagnostopoulos @Sapienza
